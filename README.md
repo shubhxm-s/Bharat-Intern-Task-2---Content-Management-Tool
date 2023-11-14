@@ -2,7 +2,6 @@
 🚀Project Update🚀<br>
 Here's my TASK-1  "Content Management Tool" as part of my Internship with Bharat Intern.
 
-<a href="https://epavan162.github.io/Content-Management-Tool/" target="_blank"><br>
 🚀**Visit Now** 🚀</a>
 ![logo](https://github.com/epavan162/Content-Management-Tool/assets/102135027/4b88a83e-adcb-4949-ae6f-9e50aa1ee94f)
 
