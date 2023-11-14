@@ -8,7 +8,6 @@ Here's my TASK-1  "Content Management Tool" as part of my Internship with Bhara
 ## 📌 Home Page of Content Management Tool 🙈 :
 
 
-![Screenshot 2023-09-04 150420](https://github.com/epavan162/Content-Management-Tool/assets/102135027/e81270cd-f445-4a45-abb0-db3c2642953f)
 
 
 <h3>If you want to know more about my Project </3>
